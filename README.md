@@ -5,7 +5,7 @@
 This project focuses on segmenting customers of a mall based on their Annual Income and Spending Score, using KMeans Clustering.
 The objective is to uncover customer groups with similar characteristics to help businesses tailor their marketing strategies and improve customer engagement.
 
-The dataset is sourced from Kaggle - [Visit Kaggle Mall Dataset]([https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python))
+The dataset is sourced from Kaggle - [Visit Kaggle Mall Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 
 **🔍 Problem Statement**
